@@ -11,7 +11,7 @@ This application consists of:
 - **Functionality:**  
   - Users can view a list of all products.  
   - On clicking **View Details** of a product, that product is added to the recommended list.  
-  - Recommended products are then shown on the homepage or a dedicated section.
+  - Recommended products are then shown on the homepage.
 
 ##  Install Dependencies
 To install all required dependencies, run the following command at the **root** of the project:
