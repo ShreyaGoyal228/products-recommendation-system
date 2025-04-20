@@ -17,7 +17,7 @@ This application consists of:
 To install all required dependencies, run the following command at the **root** of the project:
 npm i
 
-##  api functionality
+##  Api functionality
 GET /api/products
 Fetch all available products to be shown on the frontend.
 
@@ -29,6 +29,6 @@ Add a product to the recommended list when a user views its details.
 
 ##  Start the application
 
-cd backend/npm start
-cd frontend/my-app npm start
+ **Backend:**  cd backend/npm start
+ **Frontend:**  cd frontend/my-app npm start
 

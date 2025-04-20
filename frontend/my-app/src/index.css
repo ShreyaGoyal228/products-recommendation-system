@@ -9,27 +9,17 @@ body {
     color: #333;
   }
   
-  /* Layout */
   .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
   }
   
-  /* Recommendations section */
   .recommendations-section {
     margin-bottom: 40px;
   }
   
   .recommendations-container h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 10px;
-  }
-
-  .products-container {
     font-size: 24px;
     margin-bottom: 20px;
     color: #2c3e50;
@@ -69,8 +59,6 @@ body {
     }
   }
   
-
-  /* All products section */
   .all-products-section h2 {
     font-size: 24px;
     margin-bottom: 20px;

@@ -5,7 +5,7 @@ const fs = require("fs");
 const data = require("./MOCK_DATA.json");
 const recommendedProducts = require("./recommended_prod.json");
 
-//middleware
+//middleware for the testing purpose of api in postman
 app.use(express.urlencoded({ extended: true }));
 //middleware to parse the json body
 app.use(express.json());
@@ -30,7 +30,7 @@ app.post("/api/recommend", (req, res) => {
 
   if (alreadyExists) {
     return res.json({
-      status: "Product already recommended. Skipping.",
+      status: "Product already recommended.",
     });
   }
 
