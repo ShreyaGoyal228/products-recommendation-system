@@ -29,6 +29,6 @@ Add a product to the recommended list when a user views its details.
 
 ##  Start the application
 
- **Backend:**  cd backend/npm start
- **Frontend:**  cd frontend/my-app npm start
+- **Backend:**  cd backend/npm start
+- **Frontend:**  cd frontend/my-app npm start
 
