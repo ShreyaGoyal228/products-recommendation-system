@@ -14,7 +14,7 @@ This application consists of:
   - Recommended products are then shown on the homepage.
 
 ##  Install Dependencies
-To install all required dependencies, run the following command at the **root** of the project:
+To install all required dependencies, run the following command at the separately inside the backend and frontend/my-app of the project:
 npm i
 
 ##  Api functionality
